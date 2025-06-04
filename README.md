@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This repository contains all material for homework six. The main objective is to build recurrent neural networks that predict future stock prices using historical data. Two separate forecasting tasks are completed. The first reproduces a published tutorial for General Electric prices. The second creates a custom model that predicts Microsoft closing prices thirty days and three hundred sixty five days into the future.
+The main objective is to build recurrent neural networks that predict future stock prices using historical data. Two separate forecasting tasks are completed. The first reproduces a published tutorial for General Electric prices. The second creates a custom model that predicts Microsoft closing prices thirty days and three hundred sixty five days into the future.
 
 ## Repository Contents
 
